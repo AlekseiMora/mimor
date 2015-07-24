@@ -1,0 +1,15 @@
+body{
+	font-size: 16px;
+	background: rgb(135, 56, 193);
+	text-align: center;
+}
+
+div{
+    font-size: 8em;
+    color: white;
+	padding-top: 6em;
+	}
+
+div:last-child{
+	padding-bottom: 7em;
+}
